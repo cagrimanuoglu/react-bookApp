@@ -1,3 +1,5 @@
 export default {
-    currentCategory:{categoryName:'Roman'}
+    currentCategory:{},
+    categories:[],
+    products:[]
 }
